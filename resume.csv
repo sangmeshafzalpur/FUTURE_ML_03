@@ -1,0 +1,6 @@
+candidate_id,job_title,industry,experience_years,education_level,skills_match_score,resume_score,location_type,salary_range_usd,ai_screening_result,interview_call,job_market_demand,year
+C001,Data Scientist,IT,3,Master,82,85,Remote,70000-90000,Selected,Yes,High,2026
+C002,Software Engineer,IT,1,Bachelor,65,70,Onsite,50000-65000,Rejected,No,High,2026
+C003,ML Engineer,Finance,5,Master,90,92,Hybrid,90000-120000,Selected,Yes,High,2026
+C004,Business Analyst,Healthcare,2,Bachelor,72,75,Onsite,55000-70000,Rejected,No,Medium,2026
+C005,Data Analyst,E-commerce,4,Master,88,86,Remote,75000-95000,Selected,Yes,High,2026
